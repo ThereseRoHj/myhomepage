@@ -19,11 +19,9 @@ h2 {
   font-size: 36px; 
 }
 
-.center p {
+p {
   text-align: center;
-  width: 400px;
-  border: 15px solid rgb(246, 233, 202);
-  padding: 50px rgb(246, 233, 202); 
+ 
 }
 
 ul {
