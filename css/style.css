@@ -19,7 +19,7 @@ h2 {
   font-size: 36px; 
 }
 
-p {
+.center p {
   text-align: center;
   width: 400px;
   border: 15px solid rgb(246, 233, 202);
